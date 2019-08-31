@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/vbauerster/mpb/v4/cwriter"
-	"github.com/vbauerster/mpb/v4/decor"
+	"github.com/mikewiacek/mpb/cwriter"
+	"github.com/mikewiacek/mpb/decor"
 )
 
 const (

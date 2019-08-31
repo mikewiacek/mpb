@@ -5,8 +5,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/vbauerster/mpb/v4"
-	"github.com/vbauerster/mpb/v4/decor"
+	"github.com/mikewiacek/mpb"
+	"github.com/mikewiacek/mpb/decor"
 )
 
 func init() {

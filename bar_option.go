@@ -1,7 +1,7 @@
 package mpb
 
 import (
-	"github.com/vbauerster/mpb/v4/decor"
+	"github.com/mikewiacek/mpb/decor"
 )
 
 // BarOption is a function option which changes the default behavior of a bar.

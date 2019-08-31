@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/vbauerster/mpb/v4"
+	"github.com/mikewiacek/mpb"
 )
 
 func init() {
